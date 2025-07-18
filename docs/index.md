@@ -1,8 +1,14 @@
 # Curating the Perfect Set
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-red)](https://curating-the-perfect-set-taranelgin32.streamlit.app)
+
 ## 🎵 Advanced DJ Playlist Optimization
 
 Transform your Rekordbox playlists into perfectly optimized DJ sets using advanced harmonic mixing algorithms.
+
+### 🚀 Live Demo
+
+**Try it now:** [Curating the Perfect Set Web App](https://curating-the-perfect-set-taranelgin32.streamlit.app)
 
 ### ✨ Key Features
 
