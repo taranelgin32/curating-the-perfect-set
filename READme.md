@@ -2,6 +2,10 @@
 
 Transform your Rekordbox playlists into perfectly optimized DJ sets using advanced harmonic mixing algorithms.
 
+## 🚀 Live Demo
+
+**Try it now:** [Curating the Perfect Set Web App](https://curating-the-perfect-set-taranelgin32.streamlit.app)
+
 ## 🎯 What It Does
 
 Curating the Perfect Set automatically reorganizes your DJ playlists to create smooth, professional sets by:
